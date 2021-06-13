@@ -1,5 +1,5 @@
 def simpleSum(a: int, b: int):
-    return a + b
+    return a + b + b
 
 
 def simpleProduct(a: int, b: int):
